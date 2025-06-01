@@ -44,3 +44,14 @@ A **simple yet powerful offline note-taking application** built with **Flutter**
 - Toggle between light and dark mode effortlessly.
 
 ---
+
+## 🧠 Architecture
+GetX Controllers: Manages business logic and state.
+
+Service Layer: Handles all database operations with SQLite.
+
+Bindings: Automatically initializes controllers when navigating.
+
+Reactive Widgets: UI updates automatically on data changes.
+
+
