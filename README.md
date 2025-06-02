@@ -54,4 +54,7 @@ Bindings: Automatically initializes controllers when navigating.
 
 Reactive Widgets: UI updates automatically on data changes.
 
+## 🧑‍💻 Author
+Soumik Chaudhuri – @soumik3312
+
 
